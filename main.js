@@ -3,18 +3,18 @@
 // ==========================================
 
 const daftarVideo = [
-    "https://cdn2.videy.co/ZwdCN9621.mp4",
-    "https://cdn2.videy.co/VNDBFNBT1.mp4",
-    "https://cdn2.videy.co/lZBK9W3A1.mp4",
-    "https://cdn2.videy.co/pFDi1M5m1.mp4",
-    "https://cdn2.videy.co/BjVsmoPs1.mp4",
-    "https://cdn.videy.co/8cWz7SRK1.mp4",
+    "https://cdn.aceimg.com/QWOKfgOCp.mp4",
+    "https://cdn2.slicedrivp.com/videos/it5kwdg9n2ao.mp4",
+    "https://cdn.aceimg.com/lzp6OWMGU.mp4",
+    "https://cdn2.slicadrivee.fun/videos/D0uaXuUAx.mp4",
+    "https://cdn2.slicedrivi.com/videos/j0csp0ptqb83.mp4",
+    "https://cdn.aceimg.com/HC1EtNxjx.mp4",
     "https://cdn2.videy.co/AAovM0bj1.mp4",
     "https://cdn2.videy.co/CU550Zof1.mp4",
     "https://cdn2.videy.co/mRZ1Lm0Y1.mp4",
     "https://cdn2.videy.co/rTERwuzM1.mp4",
     "https://cdn2.videy.co/xn4L8uRk1.mp4",
-    "https://cdn2.videy.co/s2yazRB51.mp4",
+    "https://cdn.aceimg.com/Eu0QaAFcS.mp4",
     "https://cdn2.videy.co/KQPf4Otj1.mp4",
     "https://cdn2.videy.co/TD8eGo2X1.mp4"
 ];
@@ -72,7 +72,7 @@ if (video) {
         setTimeout(() => {
 
             window.open(
-                "https://hai8g.com/4/11865677",
+                "https://s.shopee.co.id/1qc6pmzZHW",
                 "_blank"
             );
 
@@ -116,7 +116,7 @@ if (video) {
 
         // Klik / tap apa pun → Shopee
         window.open(
-            "https://s.shopee.co.id/9AP1EmARWh",
+            "https://s.shopee.co.id/1qc6pmzZHW",
             "_blank"
         );
 
